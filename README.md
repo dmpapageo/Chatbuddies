@@ -1,9 +1,5 @@
 # README
 
-## Chatbuddies
-
-This project integrates Node.js and React.js to create a dynamic and responsive chat application suitable for both mobile and desktop platforms.
-
 ### Key Features:
 - Real-time messaging capabilities.
 - User authentication for secure access.
