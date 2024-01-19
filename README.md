@@ -27,9 +27,7 @@
 - run the commands `cd backend`, `npm install`, and `npm run start` to build and run the backend service
 - open a new terminal in the project folder, move to the frontend folder `cd frontend`
 - run `npm install` and `npm run dev` to start vite
-- Open http://localhost:5173/ to your local.
-
-Happy chatting!
+- Open http://localhost:5173/ to your local. Happy chatting!
 
 
 ### Video Demonstration:
