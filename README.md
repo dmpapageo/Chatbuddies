@@ -21,7 +21,16 @@
 - Extensive customization options for tailoring the chat UI.
 - Future updates will allow users to login with username and password.
 
-Visit the URL to try it out yourself!
+### Steps to run the Project
+- Clone the repo `git clone https://github.com/dmpapageo/Chatbuddies.git`
+- Navigate to the project folder
+- run the commands `cd backend`, `npm install`, and `npm run start` to build and run the backend service
+- open a new terminal in the project folder, move to the frontend folder `cd frontend`
+- run `npm install` and `npm run dev` to start vite
+- Open http://localhost:5173/ to your local.
+
+Happy chatting!
+
 
 ### Video Demonstration:
 
